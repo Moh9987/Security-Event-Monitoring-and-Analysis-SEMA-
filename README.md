@@ -3,6 +3,7 @@ Security Event Monitoring and Analysis (SEMA) is a web application designed to m
 
 
 Features
+
 Log Collection: Aggregate and parse log data from different sources.
 Threat Detection: Identify potential threats through log analysis and pattern recognition.
 Reporting: Generate and view detailed security reports.
