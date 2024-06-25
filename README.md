@@ -48,3 +48,17 @@ A web application for real-time monitoring and analysis of security events.
 
 ## File Structure
 
+
+## Usage
+
+Use the application to monitor and analyze security events through a web interface.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements.
+
+## License
+
+This project is licensed under the MIT License.
+
+
