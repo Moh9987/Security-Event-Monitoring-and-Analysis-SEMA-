@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block title %}Home - SEMA{% endblock %}
+
+{% block content %}
+<h1>Security Event Monitoring</h1>
+<ul>
+    {% for threat in threats %}
+    <li>{{ threat }}</li>
+    {% endfor %}
+</ul>
+{% endblock %}
